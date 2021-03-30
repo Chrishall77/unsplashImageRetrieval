@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/unsplashImageRetrieval/static/css/main.1d10910f.chunk.css",
+    "main.js": "/unsplashImageRetrieval/static/js/main.a31e015d.chunk.js",
+    "main.js.map": "/unsplashImageRetrieval/static/js/main.a31e015d.chunk.js.map",
+    "runtime-main.js": "/unsplashImageRetrieval/static/js/runtime-main.7f57e3c7.js",
+    "runtime-main.js.map": "/unsplashImageRetrieval/static/js/runtime-main.7f57e3c7.js.map",
+    "static/js/2.fc6daf60.chunk.js": "/unsplashImageRetrieval/static/js/2.fc6daf60.chunk.js",
+    "static/js/2.fc6daf60.chunk.js.map": "/unsplashImageRetrieval/static/js/2.fc6daf60.chunk.js.map",
+    "index.html": "/unsplashImageRetrieval/index.html",
+    "static/css/main.1d10910f.chunk.css.map": "/unsplashImageRetrieval/static/css/main.1d10910f.chunk.css.map",
+    "static/js/2.fc6daf60.chunk.js.LICENSE.txt": "/unsplashImageRetrieval/static/js/2.fc6daf60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f57e3c7.js",
+    "static/js/2.fc6daf60.chunk.js",
+    "static/css/main.1d10910f.chunk.css",
+    "static/js/main.a31e015d.chunk.js"
+  ]
+}
